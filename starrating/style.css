@@ -1,0 +1,15 @@
+.star-container
+{
+    display: flex;
+    font-size: 50px;
+    background-color: bisque;
+    width: fit-content;
+}
+
+.star{
+    color: gray;
+}
+
+.rated-star{
+    color: gold;
+}
